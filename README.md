@@ -1,1 +1,2 @@
 # formula-1-dashboard-using-power-bi
+Explore Formula 1 race results from 2000 to 2024 with this interactive Power BI dashboard. Analyze global winners, track driver performances, and review constructor standings over the years. The dashboard also includes map visualizations of race locations and insights into who accumulated the most points across seasons. Perfect for F1 fans and data enthusiasts!
